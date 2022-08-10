@@ -18,3 +18,10 @@ Project purpose was to create a CNN model and try out contrastive learning that 
 
 ## Outputs:
 
+[Notebook](https://github.com/EimantasZaranka/ML_playground/blob/main/mnist/ContrastLearning_HandwrittenDigits.ipynb)
+
+[Trained models](https://github.com/EimantasZaranka/ML_playground/tree/main/mnist/models)
+
+## Final toughts:
+
+It was a while when I trained a models on TF. It was a good excercise to get rid of rust and remember the framework.
