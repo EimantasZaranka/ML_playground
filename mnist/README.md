@@ -6,7 +6,7 @@ Project purpose was to create a CNN model and try out contrastive learning that 
 
 1. Tryout different loss metrics.
 
-2. Try to fix model itself because training accuracy was very low (~.5) meanwhile validation and test sets accuracy was quite high (~.93). 
+2. Try to fix model itself because training accuracy was very low (around 0.5) meanwhile validation and test sets accuracy was quite high (around 0.93). 
 
 3. Also in the future could be a good idea to create flask web app and run both models in it where user could draw its own numbers and make model predict on it.
 
